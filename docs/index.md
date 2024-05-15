@@ -1,7 +1,9 @@
 ---
+layout: default
 title: Home
-layout: home
+nav_enabled: true
 ---
+
 
 
 # Entwicklung einer Bilderkennungs-Webanwendung mit Backend mit Amazon Rekognition, Python, AWS Lambda und GitHub Actions
