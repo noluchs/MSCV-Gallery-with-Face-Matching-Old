@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Home
-nav_enabled: true
+nav_order: 1
+permalink: /
 ---
 
 
@@ -10,7 +11,7 @@ nav_enabled: true
 
 Die digitalen und interaktiven Bedürfnisse bei Veranstaltungen erfordern eine effiziente Lösung zur schnellen Identifizierung persönlicher Fotos in großen Galerien. Dieses Projekt entwickelt ein Microservice-basiertes System mit Gesichtserkennung, um dieses Problem zu adressieren. Es unterscheidet sich von bestehenden Lösungen durch seine modulare Architektur und die direkte Integration von Gesichtserkennungstechnologien, die speziell auf die Anforderungen von Event-Veranstaltern und Teilnehmern zugeschnitten sind.
 
-### ·       Need: 
+### ·       Need: 
 Veranstaltungen erzeugen eine große Menge an Fotomaterial, das effizient verwaltet und durchsucht werden muss. Besucher und Teilnehmer benötigen eine schnelle Methode, um sich selbst auf Fotos zu finden, ohne manuell durch Hunderte oder Tausende von Bildern blättern zu müssen.
 
 ### ·       Approach: 
