@@ -5,4 +5,5 @@ url: "https://noluchs.github.io/MSCV-Gallery-with-Face-Matching/" # the base hos
 
 theme: just-the-docs
 
-
+plugins:
+  - jekyll-default-layout
