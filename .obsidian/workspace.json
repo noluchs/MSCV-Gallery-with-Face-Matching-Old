@@ -146,6 +146,13 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "279351df5769b267",
-  "lastOpenFiles": []
+  "active": "ad416030ed789723",
+  "lastOpenFiles": [
+    "docs/index.md",
+    "docs/_config.yml",
+    "docs/gemfile",
+    "docs/Gemfile",
+    "code",
+    "docs"
+  ]
 }
