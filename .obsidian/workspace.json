@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "docs/index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "docs/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "docs/index.md"
               }
             }
           }
@@ -146,11 +146,14 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "ad416030ed789723",
+  "active": "279351df5769b267",
   "lastOpenFiles": [
-    "docs/anhang/Schmittel.md",
-    "docs/anhang/Unbenannt.md",
+    "docs/1_Einleitung/Einleitung.md",
     "docs/anhang/quellen.md",
+    "docs/anhang/Schmittel.md",
+    "docs/index.md",
+    "README.md",
+    "docs/anhang/Unbenannt.md",
     "docs/quellen.md",
     "docs/Unbenannt.md",
     "docs/2_Projektorganisation",
@@ -158,7 +161,6 @@
     "docs/1_Einleitung",
     "docs/einleitung",
     "docs/anhang",
-    "docs/index.md",
     "docs/_config.yml",
     "docs/gemfile",
     "docs/Gemfile",
