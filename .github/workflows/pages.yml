@@ -18,23 +18,19 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: docs
     steps:
       - name: Checkout
         uses: actions/checkout@v3
 
       - name: List directory contents
         run: ls -R
-        working-directory: docs
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.1'
           bundler-cache: true
-          working-directory: '${{ github.workspace }}/docs'
+          working-directory: '${{ github.workspace }}'
 
       - name: Setup Pages
         id: pages
