@@ -23,13 +23,18 @@ jobs:
         uses: actions/checkout@v4
 
       - name: List directory contents
-        run: ls -R
+        run: ls -R docs
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.1'
           bundler-cache: true
+          working-directory: docs
+
+      - name: Install dependencies
+        run: bundle install
+        working-directory: docs
 
       - name: Setup Pages
         id: pages
@@ -39,6 +44,7 @@ jobs:
         run: bundle exec jekyll build --source docs --destination docs/_site --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
+        working-directory: docs
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
