@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 1. Startseite
-nav_order: 100
+title: 1. Einleitung
+nav_order: 1
 permalink: /
 ---
 
