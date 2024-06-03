@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "2_Projektorganisation/sprintplanung.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "4581ca64291ca42a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "2_Projektorganisation/sprintplanung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "2_Projektorganisation/sprintplanung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "2_Projektorganisation/sprintplanung.md"
               }
             }
           }
@@ -159,13 +146,17 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "4581ca64291ca42a",
+  "active": "f7b3269eb441cb0f",
   "lastOpenFiles": [
+    "index.md",
+    "2_Projektorganisation/sprintplanung.md",
+    "2_Projektorganisation/projektmethode.md",
+    "2_Projektorganisation/projektorganisation.md",
+    "2_Projektorganisation/index.md",
     "1_Einleitung/Einleitung.md",
     "1_Einleitung/Unbenannt.md",
     "anhang/quellen.md",
     "anhang/Schmittel.md",
-    "index.md",
     "2_Projektorganisation",
     "1_Einleitung",
     "anhang"
