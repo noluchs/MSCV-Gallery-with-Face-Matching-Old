@@ -1,7 +1,6 @@
 title: MSVC Gallery with Face Matching
 description: 3 Semesterarbeit für Cloud Native Engineer Studium
 url: "https://noluchs.github.io/MSCV-Gallery-with-Face-Matching/" # the base hostname & protocol for your site, e.g., "http://example.com"
-
 theme: just-the-docs
 
 aux_links:

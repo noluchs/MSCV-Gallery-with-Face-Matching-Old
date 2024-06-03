@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Projektorganisation/sprintplanung.md",
+                "file": "2_Projektorganisation/index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_Projektorganisation/sprintplanung.md",
+                "file": "2_Projektorganisation/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2_Projektorganisation/sprintplanung.md",
+                "file": "2_Projektorganisation/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2_Projektorganisation/sprintplanung.md"
+                "file": "2_Projektorganisation/index.md"
               }
             }
           }
@@ -146,10 +146,10 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "f7b3269eb441cb0f",
+  "active": "4636542e08733b6e",
   "lastOpenFiles": [
-    "index.md",
     "2_Projektorganisation/sprintplanung.md",
+    "index.md",
     "2_Projektorganisation/projektmethode.md",
     "2_Projektorganisation/projektorganisation.md",
     "2_Projektorganisation/index.md",
